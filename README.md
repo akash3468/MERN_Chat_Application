@@ -1,2 +1,2 @@
-# MERN_Chat_Application
-Chat application implemented using MERN and socket io
+# Chat-Applcation
+Chat application with socket io and react js
